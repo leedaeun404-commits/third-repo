@@ -1,7 +1,16 @@
 # third-repo
 
  
-FizzBuzz 예를 반복 통해 GitHub Flow(이슈 → 브랜치 → PR → merge)를 연습합니
+# third-repo
 
+## Description
+FizzBuzz 예제를 통해  
+GitHub Flow(이슈 → 브랜치 → PR → merge)를 연습합니다.
 
+## Tasks
+- [ ] fizz
+- [ ] buzz
+- [ ] fizzbuzz
 
+## References
+- 없음
